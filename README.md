@@ -1,16 +1,12 @@
-# university_find_flutter
 
-A new Flutter project.
+# 8. University Information App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The University Information app was implemented to learn more about Models, API Integration  and Handling large data over the api's.
+Code:
+https://github.com/mtalharana/university_find_flutter
 
-A few resources to get you started if this is your first Flutter project:
+Stay Tuned for my Thrilling, Consistent, and problem-solving flutter journey.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Please react with Love, Comment, Repost, or send it to those you care much, about this fantastic journey.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
